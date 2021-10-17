@@ -4,5 +4,5 @@ I am researcher of computer science and Machine Learning. I am interested in, wr
 
 
 <!-- [![alt text](https://cdn.hackernoon.com/images/f2px36fy.gif)](https://github.com/samanemami) -->
-<img src="https://github.com/samanemami/samanemami/blob/main/docs/HelloWorld.gif" alt="about" style="height:200px;">
+<img src="https://github.com/samanemami/samanemami/blob/main/docs/HelloWorld.gif" alt="about" style="height:300px;">
 
