@@ -10,7 +10,7 @@ I am interested in, write about, and develop (open source) machine learning mode
 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&exclude_repo=MyScratch)](https://github.com/samanemami)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&exclude_repo=MyScratch&theme=gotham)](https://github.com/samanemami)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)
  
