@@ -7,6 +7,9 @@
 <h4>The languages I work with them</h4>
 
 <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)
