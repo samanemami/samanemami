@@ -11,7 +11,7 @@
 <p> <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&layout=compact)](https://github.com/samanemami?tab=repositories)
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samanemami&left_color=green&right_color=blue)
  
