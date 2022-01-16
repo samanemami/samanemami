@@ -18,6 +18,6 @@
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samanemami&left_color=green&right_color=blue) 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samanemami&repo=github-readme-stats)](https://github.com/samanemami)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samanemami&repo=github-readme-stats)](https://github.com/samanemami)
 
 
