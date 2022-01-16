@@ -7,6 +7,7 @@
 <h4>The languages I work with them</h4>
 
 **Languages and Tools:** 
+
 <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 
