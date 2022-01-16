@@ -1,7 +1,5 @@
 ## Hi there, I'm Sam! 👋
 <br />
-
-
 <h4> I am a researcher of computer science and Machine Learning. </h4>
 <h4> I am interested in, write about, and develop (open source) machine learning models using Python. </h4>
 
