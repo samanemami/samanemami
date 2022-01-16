@@ -5,7 +5,7 @@
 <h4> I am a researcher of computer science and Machine Learning. </h4>
 <h4> I am interested in, write about, and develop (open source) machine learning models using Python. </h4>
 <h4>The languages I work with them</h4>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)
