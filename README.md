@@ -1,12 +1,14 @@
-<img src="https://raw.githubusercontent.com/samanemami/samanemami/main/docs/HW.gif" alt="about" style="height:150px;"> 
+# Hi there, I'm Sam! 👋
+<br />
 
 
-I am a researcher of computer science and Machine Learning. 
+<h3> I am a researcher of computer science and Machine Learning. </h3>
+<h3> I am interested in, write about, and develop (open source) machine learning models using Python. </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&exclude_repo=MyScratch&theme=gotham&layout=compact)](https://github.com/samanemami)
+![Rick Staa's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=samanemami&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)
 
 
-I am interested in, write about, and develop (open source) machine learning models using Python.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)
  
