@@ -6,7 +6,7 @@
 <h4> I am interested in, write about, and develop (open source) machine learning models using Python. </h4>
 <h4>The languages I work with them</h4>
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)
