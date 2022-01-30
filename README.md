@@ -21,9 +21,7 @@
 </p>
 
 
-<p> <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
-<p> <a href="https://medium.com/@samanemami" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>
+**Find me**
+<p> <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p> <a href="https://medium.com/@samanemami" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>
 
