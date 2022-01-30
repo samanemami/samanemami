@@ -11,15 +11,21 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&exclude_repo=MyScratch&theme=gotham&layout=compact)](https://github.com/samanemami)
+** Activity **
+
+<img src="https://activity-graph.herokuapp.com/graph?username=samanemami&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="samanemamiGraph">
+</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samanemami&show_icons=true&theme=gotham)
+
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanemami&exclude_repo=MyScratch&theme=gotham&layout=compact)](https://github.com/samanemami)
 
 
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanemami&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="samanemamiActivity"><br>
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=samanemami&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="samanemamiGraph">
-</p>
  
 
 <p> <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
