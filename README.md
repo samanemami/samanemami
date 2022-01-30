@@ -24,4 +24,8 @@
  
  
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanemami&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Mario GitHub Streak"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanemami&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="samanemamiActivity"><br>
+  
+  
+<img src="https://activity-graph.herokuapp.com/graph?username=samanemami&theme=react-dark&color=00dbde&line=00dbde&point=f2f2f2&area=true&hide_border=true&custom_title=Activity%20Graph" alt="samanemamiGraph">
+</p>
