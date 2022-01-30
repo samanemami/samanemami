@@ -20,3 +20,8 @@
 
 <p> <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+ 
+ 
+ 
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samanemami&theme=tokyonight_duo&fire=00dbde&hide_border=true&stroke=00dbde&ring=00dbde&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=f2f2f2&sideLabels=f2f2f2&dates=00dbde" alt="Mario GitHub Streak"><br>
