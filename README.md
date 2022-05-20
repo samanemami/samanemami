@@ -1,4 +1,11 @@
 ## Hi there, I'm Sam! 👋
+
+<h1 align="center">
+    <a href="https://skyline.github.com/samanemami/2021" target="_blank">
+        <img height="5%" width="5%" src="https://raw.githubusercontent.com/skyline-emu/branding/master/logo/skyline-logo.png"><br>
+    </a>
+</h1>
+
 [![Github](https://img.shields.io/github/followers/samanemami?label=Follow&style=social)](https://github.com/samanemami)
 <br />
 <h4> I am a researcher of computer science and Machine Learning. </h4>
