@@ -1,5 +1,5 @@
 <h1 align="left">
-    Hi there, I'm Sam! 👋
+    Hi there, I'm Sam!
     <a href="https://skyline.github.com/samanemami/2021">
         <img height="5%" width="5%" src="https://raw.githubusercontent.com/skyline-emu/branding/master/logo/skyline-logo.png"><br>
     </a>
