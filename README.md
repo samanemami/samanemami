@@ -20,4 +20,4 @@
 
 <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@samanemami" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a> <a href="https://www.kaggle.com/samanemami" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
-<img src='https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg' style="float:center; width:30%"></img>
+<img src='https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg' style="float:center; width:50%"></img>
