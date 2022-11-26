@@ -6,7 +6,7 @@
 </h1>
 
 <h4> Computer science and Machine Learning. </h4>
-<h4> Interested in, write about, and develop (open source) machine learning models.</h4>
+<h4> Interested in, write about, and develop (open source) machine learning models and deep-learning frameworks./h4>
 
 
 
