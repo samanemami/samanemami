@@ -1,18 +1,18 @@
 <h1 align="left">
-    Hi there, I'm Saman (AI Maverick)!
+    Hi there, I'm Saman!
     <a href="https://skyline.github.com/samanemami/2021">
         <img height="3.7%" width="3.7%" src="https://raw.githubusercontent.com/skyline-emu/branding/master/logo/skyline-logo.png"><br>
     </a>
 </h1>
 
 <h4> Computer science and Machine Learning. </h4>
-<h4> Interested in, writing about, and developing (open source) machine learning models and deep-learning frameworks.</h4>
+<h4> A DEDICATED RESEARCHER IN THE MACHINE LEARNING AREA.</h4>
 
 
 
 **Languages and Tools:** 
 
-<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
+<img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
 
 
 
