@@ -6,7 +6,7 @@
 </h1>
 
 <h4> Computer science and Machine Learning. </h4>
-<h4> A DEDICATED RESEARCHER IN THE MACHINE LEARNING AREA.</h4>
+<h4> A Dedicated Researcher in the Machine Learning and Signal Processing Field. </h4>
 
 
 
