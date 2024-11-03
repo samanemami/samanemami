@@ -6,7 +6,7 @@
 </h1>
 
 <h4> PhD in Computer Science and Machine Learning. </h4>
-<h4> A Dedicated Researcher in the Machine Learning and Signal Processing Field. </h4>
+<h4> A Dedicated Researcher in the Machine Field. </h4>
 
 
 
