@@ -1,12 +1,11 @@
 <h1 align="left">
-    Hi there, I'm Saman!
+    Hi there!
 <!--     <a href="https://skyline.github.com/samanemami/2023">
         <img height="3.7%" width="3.7%" src="https://raw.githubusercontent.com/skyline-emu/branding/master/logo/skyline-logo.png"><br>
     </a> -->
 </h1>
 
-<h4> PhD in Computer Science and Machine Learning. </h4>
-<h4> A Dedicated Researcher in the Machine Field. </h4>
+<h4> PhD in CS. </h4>
 
 
 
