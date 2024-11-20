@@ -1,11 +1,4 @@
-<h1 align="left">
-    Hi there!
-<!--     <a href="https://skyline.github.com/samanemami/2023">
-        <img height="3.7%" width="3.7%" src="https://raw.githubusercontent.com/skyline-emu/branding/master/logo/skyline-logo.png"><br>
-    </a> -->
-</h1>
-
-<h4> PhD in CS. </h4>
+PhD in CS
 
 
 
@@ -18,9 +11,4 @@
 **Find me on**
 
 <a href="https://www.linkedin.com/in/saman-emami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://x.com/AIMaverick2024" target="_blank"><img alt="medium" src="https://img.shields.io/badge/X-%230077B5.svg?&style=for-the-badge&logo=X&logoColor=black" /></a> <a href="https://medium.com/@samanemami" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>  
- 
-
-**More about me**
-
-<a href="https://samanemami.github.io/" target="_blank"><img alt="website" src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>
+<a href="https://medium.com/@samanemami" target="_blank"><img alt="medium" src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=black" /></a>
