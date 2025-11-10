@@ -1,3 +1,5 @@
+![Boot sequence animation](https://i.redd.it/3tjysqy6d5xd1.gif)
+
 <pre style="background-color: black; color: #00ff00; padding: 1em; font-family: monospace;">
 [BOOT SEQUENCE INITIATED]
 <span style="color: #00ff00;">&gt; Performance artifacts located.</span>
