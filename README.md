@@ -1,4 +1,5 @@
-![Boot sequence animation](https://i.redd.it/3tjysqy6d5xd1.gif)
+<img src="https://i.redd.it/3tjysqy6d5xd1.gif" width="300">
+
 
 <pre style="background-color: black; color: #00ff00; padding: 1em; font-family: monospace;">
 [BOOT SEQUENCE INITIATED]
