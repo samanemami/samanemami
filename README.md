@@ -1,1 +1,1 @@
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue?style=for-the-badge)](https://samanemami.com)
+[![Website](https://img.shields.io/badge/samanemami.com-blue?style=for-the-badge)](https://samanemami.com)
