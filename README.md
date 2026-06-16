@@ -1,2 +1,1 @@
-<pre style="background-color: black; color: #00ff00; padding: 1em; font-family: monospace;">
-[BOOT SEQUENCE INITIATED]
+[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue?style=for-the-badge)](https://yourwebsite.com)
